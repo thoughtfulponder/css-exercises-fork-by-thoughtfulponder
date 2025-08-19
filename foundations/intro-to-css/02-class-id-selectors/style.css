@@ -1,3 +1,19 @@
 .odd-number {
-    background-color
+    background-color: hsl(0, 100%, 85%);
+    font-family: verdana, DejaVu sans, sans-serif;
+}
+
+.cooler-odd-number {
+    font-size: 24px;
+}
+
+#even-number-id {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#another-id {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
 }
